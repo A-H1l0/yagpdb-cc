@@ -12,7 +12,7 @@ This command logs reactions.
 ## Configuration
 
 - 📌 `$logging_channel_id`<br />
-  ID of the channel to log reactions to.
+  1416652705371262986 to log reactions to.
 
 ## Code
 
